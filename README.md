@@ -1,5 +1,5 @@
-# Tooling API Java test app
-This is a java app for running different test scenarios against Tooling API.
+# Run Assignment Rule Programmatically
+This is the starting code to run assignment rule programmatically.
 
 ## Getting Started
 
